@@ -9,6 +9,6 @@ public class FirstSelenium {
         System.setProperty("webdriver.chrome.driver",
                 "/Users/elzatazat/Documents/selenium dependencies/drivers/chromedriver");
         WebDriver driver =  new ChromeDriver();
-        driver.get("https://google.com");
+        driver.get("https://amazon.com");
     }
 }
